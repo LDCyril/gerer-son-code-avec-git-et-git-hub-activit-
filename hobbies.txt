@@ -1,1 +1,2 @@
 Un petit fichier qui explique mes hobbies
+une phrase qui confirme que l'envoi sur github s'est déroulé comme prévu
