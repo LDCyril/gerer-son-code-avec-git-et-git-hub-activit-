@@ -1,1 +1,1 @@
-le Budugi se compose de Dogi et Hakama 
+le Budogi se compose de Dogi et Hakama 
