@@ -1,2 +1,4 @@
 Un petit fichier qui explique mes hobbies
 une phrase qui confirme que l'envoi sur github s'est déroulé comme prévu
+
+Je suis inscrit dans un club de Kendo depuis cet été et je vais bientôt porter l'armure
